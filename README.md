@@ -1,2 +1,2 @@
-# omkar-portfolio
+# atharv-portfolio
 My portfolio
